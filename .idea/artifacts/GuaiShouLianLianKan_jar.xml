@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="GuaiShouLianLianKan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuaiShouLianLianKan_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GuaiShouLianLianKan.jar">
+        <element id="module-output" name="GuaiShouLianLianKan" />
+      </element>
+    </root>
+  </artifact>
+</component>
